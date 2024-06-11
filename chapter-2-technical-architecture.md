@@ -2,7 +2,7 @@
 
 #### Blockchain Infrastructure
 
-EtherMind will utilize Ethereum for its mature ecosystem and smart contract capabilities. Depending on transaction cost and speed requirements, Solana might also be considered for its low fees and scalability. Smart contracts will handle transactions, user registration, and AI model listings.
+EtherMind will utilize Ethereum for its mature ecosystem and smart contract capabilities. Depending on transaction cost and speed requirements, Eclipse/Fuel/Solana/NEAR might be considered for its low fees and scalability. Smart contracts will handle transactions, user registration, and AI model listings.
 
 #### Decentralized Storage and Execution
 
